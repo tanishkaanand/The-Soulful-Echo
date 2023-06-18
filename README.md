@@ -1,5 +1,5 @@
 # The-Soulful-Echo
-Enjoy Music
+Personal Music Website for Streaming Piano Songs Played by Me!
 
 # Website Demo
 https://drive.google.com/file/d/17IsFr-h9h1m_oxMI_ZvNwbeAqf129sxQ/view?usp=sharing
